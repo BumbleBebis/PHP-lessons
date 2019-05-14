@@ -1,0 +1,19 @@
+body {
+  font-family: Roboto;
+}
+
+/*align left*/
+#left{
+width: 40%;
+float: left;
+}
+
+
+/*align right*/
+#right {
+width: 60%;
+float: right;
+padding-top: 30px;
+}
+
+
